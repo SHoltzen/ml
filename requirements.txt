@@ -1,0 +1,4 @@
+distribute==0.6.34
+numpy==1.7.1
+scikit-learn==0.14.1
+wsgiref==0.1.2

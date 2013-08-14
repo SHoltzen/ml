@@ -1,5 +1,20 @@
-# Ignore swap files
-*~
-
-# Ignore pyc files
+# Compiled Python Sources
 *.pyc
+#
+# # Build directors
+bin/
+include/
+lib/
+.Python
+#
+# # Temp swap files
+*~
+*.swp
+# # OS Generated files #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
